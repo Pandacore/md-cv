@@ -1,18 +1,17 @@
-import MarkdownIt from 'markdown-it'; 
-var md = MarkdownIt();
+import MarkdownIt from 'markdown-it';
 
-md.linkify = true
+let md = MarkdownIt();
 
-var result = md.render(`# Manuel Pérez Regalado
+let result = md.render(`# Manuel Pérez Regalado
 ### Desarrollador Junior Full-Stack
 
 El Paso (La Palma)  
 15/10/1992  
 perezregaladomanuel@gmail.com
 
-[manuelperezregalado.com](http://manuelperezregalado.com/)  - 
-[Pandacore](https://pandacore.github.ioPandacore) - 
-[Manuel Pérez Regalado](https://www.linkedin.com/in/manuel-perez-regalado/) 
+![](https://i.ibb.co/mXNKkNp/programacion.png) [manuelperezregalado.com](http://manuelperezregalado.com/)  - 
+![](https://i.ibb.co/vDzx1Fr/github-1.png) [Pandacore](https://pandacore.github.ioPandacore) - 
+![](https://i.ibb.co/S78xVfn/linkedin.png) [Manuel Pérez Regalado](https://www.linkedin.com/in/manuel-perez-regalado/) 
 
 ## Education
 
@@ -63,7 +62,7 @@ perezregaladomanuel@gmail.com
 
 > Junio 2017 - Enero 2018
 
-**Administrador de Sistemas (Prácticas del CFGS). [Demase](http://www.demasesl.com/) .** El Paso. Funciones: Atención a clientes. Gestión de incidencias y servicio técnico.(Java y Springboot).
+**Administrador de Sistemas (Prácticas del CFGS). [Demase.](http://www.demasesl.com/)** El Paso. Funciones: Atención a clientes. Gestión de incidencias y servicio técnico.(Java y Springboot).
 
 
 ## Personal

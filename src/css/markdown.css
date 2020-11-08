@@ -296,3 +296,7 @@ html {
       page-break-after: avoid;
     }
   }
+
+  img{
+    margin-bottom: 4px;
+  }
