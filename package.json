@@ -1,0 +1,21 @@
+{
+  "name": "markdown-cv-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.md --open",
+    "deploy": "gh-pages -d src",
+    "clean": "rm -rf dist build .cache"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "github-markdown-css": "^4.0.0"
+  },
+  "devDependencies": {
+    "marked": "^1.2.3",
+    "parcel-bundler": "^1.12.4"
+  }
+}
