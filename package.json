@@ -4,19 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.md --open",
-    "deploy": "gh-pages -d src",
-    "clean": "rm -rf dist build .cache"
+    "start": "parcel src/index.html --open",
+    "deploy": "gh-pages -d build",
+    "clean": "rm -rf dist build .cache node_modules/.cache",
+    "build": "parcel build src/index.html -d build --public-url /md-cv"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "github-markdown-css": "^4.0.0"
+    "markdown-it": "^12.0.2"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",
-    "marked": "^1.2.3",
     "parcel-bundler": "^1.12.4"
   }
 }
