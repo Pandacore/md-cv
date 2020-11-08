@@ -1,5 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
+
 <article class="markdown-body">
 
 ### Manuel Pérez Regalado
@@ -60,7 +61,7 @@ Permiso de conducir.
 
 <a href="https://empresas.infoempleo.com/hrtrends/garantia-juvenil-que-beneficios-obtienen-las-empresas-por-la-contratacion-de-jovenes"> Inscrito en el Programa de Garantía Juvenil.</a>
 
-<br/>Last updated: November 2020<br/><br/>
+<br/>Last update: November 2020<br/><br/>
 
 </article>
 
