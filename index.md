@@ -43,7 +43,7 @@ perezregaladomanuel@gmail.com<br/>
 `2020`
 **Cursando actualmente. Curso FullStack**, Escuela de Organización Industrial (EOI). Santa Cruz de Tenerife. 335 horas. Contenidos: 
 
-- Front-end (HTML/CSS avanzado, Bootstrap, Flexbox, Grid CSS, LESS, SASS, TailWind).
+- Front-end (HTML/CSS avanzado, Flexbox, Grid CSS, LESS, SASS, TailWind).
 - Programación (Análisis, métodos, optimización y buenas prácticas).
 - Back-end (Javascript, Node.js, Go).
 - Bases de datos (SQL: SQLite, MariaDB, NoSQL: MongoDB).
